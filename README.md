@@ -12,4 +12,4 @@ Eu possuo experiência em C# graças à desenvolvimento de jogos, utilizando alg
 - IA
 
 ## Contato
-Você pode entrar em contato comigo por [Linkedin](www.linkedin.com/in/guilherme-maioli-brito-5570b12aa) ou [GitHub](https://github.com/GuilhermeBrJr)
+Você pode entrar em contato comigo por [Linkedin](https://www.linkedin.com/guilherme-maioli-brito) ou [GitHub](https://github.com/GuilhermeBrJr)
